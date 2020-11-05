@@ -12,7 +12,11 @@ You can in some terminals also just click the link to open it and automatically 
 
 ## Exercises
 
-The exercises are labelled with numbers and I recommend starting with the first.
+The exercises are labelled with numbers, followed by EX, and I recommend starting with the first.
+
+## Guides
+
+There's also a bunch of guides attempting to explain some of the more fundamental concepts in a little more detail, should you struggle in some places.
 
 ## Tips
 
