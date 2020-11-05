@@ -1,0 +1,11 @@
+version: "3.3"
+
+services:
+  tf:
+    build: .
+    volumes: 
+    - type: bind
+      source: .
+      target: /home/jovyan/work
+    ports:
+    - 8888:8888
